@@ -21,7 +21,7 @@ function changeTooltipMessage(element, msg) {
         "data-placement='right auto'",
         "data-trigger='hover'",
         "data-clipboard-copy",
-        "style='background-color:rgb(133, 129, 133); right: 20px; bottom: 15px; position: absolute'"
+        "style='background-color:rgb(133, 129, 133); right: 20px; bottom: 10px; position: absolute'"
       ]
       $("div.sourceCode").addClass("hasCopyButton");
 
